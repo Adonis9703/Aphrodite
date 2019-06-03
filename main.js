@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App'
 import {post} from './request/index'
+import "./common/iconfont.css"
 
 Vue.config.productionTip = false
 Vue.prototype.$post = post

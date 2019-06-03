@@ -1,46 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	/*每个页面公共css */
-page {
-        -webkit-animation: bg-change 10s infinite;
-                animation: bg-change 10s infinite;
-}
-@-webkit-keyframes bg-change {
-0%  {background-color: #fef6c4
-}
-25% {background-color: rgb(233, 133, 134)
-}
-50% {background-color: #c2def5
-}
-75% {background-color: #eba8f6
-}
-100% {background-color: #ffa5d3;}
-}
-@keyframes bg-change {
-0%  {background-color: #fef6c4
-}
-25% {background-color: rgb(233, 133, 134)
-}
-50% {background-color: #c2def5
-}
-75% {background-color: #eba8f6
-}
-100% {background-color: #ffa5d3;}
-}
-
 @font-face {
   font-family: 'iconfont';  /* project id 1224437 */
   src: url('https://at.alicdn.com/t/font_1224437_47u9hcvstku.eot');
@@ -60,143 +17,142 @@ page {
 }
 
 .icon-Desert-0:before {
-  content: "\E627";
+  content: "\e627";
 }
 
 .icon-Desert-1:before {
-  content: "\E628";
+  content: "\e628";
 }
 
 .icon-Desert-2:before {
-  content: "\E629";
+  content: "\e629";
 }
 
 .icon-Desert-3:before {
-  content: "\E62A";
+  content: "\e62a";
 }
 
 .icon-Desert-4:before {
-  content: "\E62B";
+  content: "\e62b";
 }
 
 .icon-Desert-5:before {
-  content: "\E62C";
+  content: "\e62c";
 }
 
 .icon-Desert-6:before {
-  content: "\E62D";
+  content: "\e62d";
 }
 
 .icon-Desert-7:before {
-  content: "\E62E";
+  content: "\e62e";
 }
 
 .icon-Desert-8:before {
-  content: "\E62F";
+  content: "\e62f";
 }
 
 .icon-Desert-9:before {
-  content: "\E630";
+  content: "\e630";
 }
 
 .icon-Desert-10:before {
-  content: "\E631";
+  content: "\e631";
 }
 
 .icon-Desert-11:before {
-  content: "\E632";
+  content: "\e632";
 }
 
 .icon-Desert-12:before {
-  content: "\E633";
+  content: "\e633";
 }
 
 .icon-Desert-13:before {
-  content: "\E634";
+  content: "\e634";
 }
 
 .icon-Desert-14:before {
-  content: "\E635";
+  content: "\e635";
 }
 
 .icon-Desert-15:before {
-  content: "\E636";
+  content: "\e636";
 }
 
 .icon-Desert-16:before {
-  content: "\E637";
+  content: "\e637";
 }
 
 .icon-Desert-17:before {
-  content: "\E638";
+  content: "\e638";
 }
 
 .icon-Desert-18:before {
-  content: "\E639";
+  content: "\e639";
 }
 
 .icon-Desert-19:before {
-  content: "\E63A";
+  content: "\e63a";
 }
 
 .icon-Desert-20:before {
-  content: "\E63B";
+  content: "\e63b";
 }
 
 .icon-Desert-21:before {
-  content: "\E63C";
+  content: "\e63c";
 }
 
 .icon-Desert-22:before {
-  content: "\E63D";
+  content: "\e63d";
 }
 
 .icon-Desert-23:before {
-  content: "\E63E";
+  content: "\e63e";
 }
 
 .icon-Desert-24:before {
-  content: "\E63F";
+  content: "\e63f";
 }
 
 .icon-Desert-25:before {
-  content: "\E640";
+  content: "\e640";
 }
 
 .icon-Desert-26:before {
-  content: "\E641";
+  content: "\e641";
 }
 
 .icon-Desert-27:before {
-  content: "\E642";
+  content: "\e642";
 }
 
 .icon-Desert-28:before {
-  content: "\E643";
+  content: "\e643";
 }
 
 .icon-Desert-29:before {
-  content: "\E644";
+  content: "\e644";
 }
 
 .icon-Desert-30:before {
-  content: "\E645";
+  content: "\e645";
 }
 
 .icon-Desert-31:before {
-  content: "\E646";
+  content: "\e646";
 }
 
 .icon-Desert-32:before {
-  content: "\E647";
+  content: "\e647";
 }
 
 .icon-Desert-33:before {
-  content: "\E648";
+  content: "\e648";
 }
 
 .icon-Desert-34:before {
-  content: "\E649";
+  content: "\e649";
 }
-
 

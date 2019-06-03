@@ -3,6 +3,7 @@
 		<view>
 			<text class="title">{{title}}</text>
 		</view>
+        <i type="" class="iconfont icon-Desert-0"></i>
 		<button @click="test()">
 			post
 		</button>
