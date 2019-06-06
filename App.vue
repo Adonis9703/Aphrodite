@@ -1,31 +1,39 @@
 <script>
-	export default {
-		onLaunch: function() {
-			console.log('App Launch')
-		},
-		onShow: function() {
-			console.log('App Show')
-		},
-		onHide: function() {
-			console.log('App Hide')
-		}
-	}
+  export default {
+    onLaunch: function () {
+    },
+    onShow: function () {
+    },
+    onHide: function () {
+    }
+  }
 </script>
 
 <style>
-	/*每个页面公共css */
+    /*每个页面公共css */
     body {
-        animation: bg-change 10s infinite;
+        /*font-family: 仿宋;*/
+        /*font-family: iconfont;*/
+        color: #333;
+        height: 100%;
+        background: linear-gradient(90deg, rgba(251, 239, 243, 0.5) 50%, transparent 0),
+        linear-gradient(rgba(250, 237, 246, 0.5) 50%, transparent 0);
+        background-size: 140upx 140upx;
+        /*animation: bg-change 4s infinite ease;*/
+        font-size: 28upx;
+    }
+    button {
+        border: none
     }
     @keyframes bg-change {
-        0%  {background-color: #fef6c4
+        0% {
+            background: linear-gradient(to bottom, #FBEFF3, #E1C2DA);
         }
-        25% {background-color: rgb(233, 133, 134)
+        100% {
+            background: linear-gradient(to bottom, #FBEFF3, #e16973);
         }
-        50% {background-color: #c2def5
-        }
-        75% {background-color: #eba8f6
-        }
-        100% {background-color: #ffa5d3;}
+        /*100% {*/
+            /*background: linear-gradient(to bottom, #E1C2DA, #FBEFF3);*/
+        /*}*/
     }
 </style>

@@ -4,7 +4,8 @@
     {
       "path": "pages/index/index",
       "style": {
-        "navigationBarTitleText": "小心思"
+        "navigationBarTitleText": "小心思",
+        "disableScroll": true
       }
     },
     {
@@ -17,7 +18,7 @@
   "globalStyle": {
     "navigationBarTextStyle": "black",
     "navigationBarTitleText": "uni-app",
-    "navigationBarBackgroundColor": "#F8F8F8",
+    "navigationBarBackgroundColor": "#FBEFF3",
     "backgroundColor": "#F8F8F8"
   }
 }
